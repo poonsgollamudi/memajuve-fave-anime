@@ -1,0 +1,58 @@
+{
+  "animes": [
+    {
+      "name": "Heroic Age",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/2002/Heroic_Age",
+      "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
+    },
+    {
+      "name": "Saiunkoku Monogatari",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/manga/13495/Saiunkoku_Monogatari",
+      "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
+    },
+    {
+      "name": "Soul Eater",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/3588/Soul_Eater",
+      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+    },
+    {
+      "name": "Macross F",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/3572/Macross_F",
+      "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
+    },
+    {
+      "name": "Casshern Sins",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/4981/Casshern_Sins",
+      "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
+    },
+    {
+      "name": "Eden of The East",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
+      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+    },
+    {
+      "name": "Suzumiya Haruhi",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/manga/3083/Suzumiya_Haruhi_Series",
+      "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
+    },
+    {
+      "name": "Hanasakeru Seishounen",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/5835/Hanasakeru_Seishounen",
+      "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
+    },
+    {
+      "name": "Martian Successor Nadesico",
+      "img": "images/cg.jpg",
+      "desc_link": "https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico",
+      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+    }
+  ]
+}
