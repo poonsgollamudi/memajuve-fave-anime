@@ -2,57 +2,57 @@
   "animes": [
     {
       "name": "Heroic Age",
-      "img": "images/cg.jpg",
+      "img": "images/heroic-age.jpg",
       "desc_link": "https://myanimelist.net/anime/2002/Heroic_Age",
-      "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
+      "utube_link": "https://www.youtube.com/watch?v=lAtfEu_mPy4"
     },
     {
       "name": "Saiunkoku Monogatari",
-      "img": "images/cg.jpg",
+      "img": "images/sm.webp",
       "desc_link": "https://myanimelist.net/manga/13495/Saiunkoku_Monogatari",
-      "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
+      "utube_link": "https://www.youtube.com/watch?v=mXqIYmbnuQc"
     },
     {
       "name": "Soul Eater",
-      "img": "images/cg.jpg",
+      "img": "images/Souleater.webp",
       "desc_link": "https://myanimelist.net/anime/3588/Soul_Eater",
-      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+      "utube_link": "https://www.youtube.com/watch?v=zzJ8U8OtEsE"
     },
     {
       "name": "Macross F",
-      "img": "images/cg.jpg",
+      "img": "images/mf.jpg",
       "desc_link": "https://myanimelist.net/anime/3572/Macross_F",
-      "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
+      "utube_link": "https://www.youtube.com/watch?v=HCGPucEUw34"
     },
     {
       "name": "Casshern Sins",
-      "img": "images/cg.jpg",
+      "img": "images/cass.jpg",
       "desc_link": "https://myanimelist.net/anime/4981/Casshern_Sins",
-      "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
+      "utube_link": "https://www.youtube.com/watch?v=ORsbHAk4Mx4"
     },
     {
       "name": "Eden of The East",
-      "img": "images/cg.jpg",
+      "img": "images/eoe.jpe",
       "desc_link": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
-      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+      "utube_link": "https://www.youtube.com/watch?v=wY8AU5t0yEE"
     },
     {
       "name": "Suzumiya Haruhi",
-      "img": "images/cg.jpg",
+      "img": "images/hz.png",
       "desc_link": "https://myanimelist.net/manga/3083/Suzumiya_Haruhi_Series",
-      "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
+      "utube_link": "https://www.youtube.com/watch?v=31aBzZokJMA"
     },
     {
       "name": "Hanasakeru Seishounen",
-      "img": "images/cg.jpg",
+      "img": "images/hs.jpg",
       "desc_link": "https://myanimelist.net/anime/5835/Hanasakeru_Seishounen",
-      "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
+      "utube_link": "https://www.youtube.com/watch?v=UuP42KOOkyQ"
     },
     {
       "name": "Martian Successor Nadesico",
-      "img": "images/cg.jpg",
+      "img": "images/msn.jpg",
       "desc_link": "https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico",
-      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+      "utube_link": "https://www.youtube.com/watch?v=3C0-OioV1Kw"
     }
   ]
 }

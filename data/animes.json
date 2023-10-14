@@ -8,51 +8,51 @@
     },
     {
       "name": "Black Lagoon",
-      "img": "images/cg.jpg",
+      "img": "images/bl.avif",
       "desc_link": "https://myanimelist.net/anime/889/Black_Lagoon",
       "utube_link": "https://www.youtube.com/watch?v=dWfxcRj39tg"
     },
     {
       "name": "Nana",
-      "img": "images/cg.jpg",
+      "img": "images/nana.webp",
       "desc_link": "https://myanimelist.net/anime/877/Nana",
       "utube_link": "https://www.youtube.com/watch?v=ZJ-SpKD0Fq8"
     },
     {
       "name": "Eyeshield 21",
-      "img": "images/cg.jpg",
+      "img": "images/e21.jpg",
       "desc_link": "https://myanimelist.net/anime/15/Eyeshield_21",
       "utube_link": "https://www.youtube.com/watch?v=SXrLLcPRpiA"
     },
     {
       "name": "Darker than Black",
-      "img": "images/cg.jpg",
+      "img": "images/dtb.webp",
       "desc_link": "https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha",
       "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
     },
     {
       "name": "Kaze no Stigma",
-      "img": "images/cg.jpg",
+      "img": "images/kns.webp",
       "desc_link": "https://myanimelist.net/anime/1691/Kaze_no_Stigma",
       "utube_link": "https://www.youtube.com/watch?v=-3AtDwFp-64"
     },
     {
       "name": "Lovely Complex",
-      "img": "images/cg.jpg",
+      "img": "images/lc.jpg",
       "desc_link": "https://myanimelist.net/anime/2034/Lovely%E2%98%85Complex",
       "utube_link": "https://www.youtube.com/watch?v=Ni1hZafSmME"
     },
     {
       "name": "Seirei no Moribito",
-      "img": "images/cg.jpg",
+      "img": "images/snm.jpg",
       "desc_link": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
       "utube_link": "https://www.youtube.com/watch?v=y1s0-X9O2ho"
     },
     {
-      "name": "Kaze no Stigma",
-      "img": "images/cg.jpg",
-      "desc_link": "https://myanimelist.net/anime/1691/Kaze_no_Stigma",
-      "utube_link": "https://www.youtube.com/watch?v=YHMpso3xkeQ"
+      "name": "Macross",
+      "img": "images/macrosssdf.webp",
+      "desc_link": "https://myanimelist.net/anime/1088/Macross",
+      "utube_link": "https://www.youtube.com/watch?v=ZvqnkRd1iyw"
     }
   ]
 }
