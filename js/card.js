@@ -1,4 +1,4 @@
-import jsonData from "../data/animes.json" assert { type: "json" };
+import jsonData from "./data/animes.json" with { type: "json" };
 
 var divsCard = document.querySelectorAll(".empty");
 //console.log(divsCard);
